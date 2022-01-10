@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/text.dir/main.cpp.o -o text  /usr/lib/libOpenGL.so /usr/lib/libGLX.so /usr/lib/libGLU.so /usr/lib/libGLEW.so /usr/lib/libglut.so /usr/lib/libXmu.so /usr/lib/libXi.so /usr/lib/libfreetype.so 

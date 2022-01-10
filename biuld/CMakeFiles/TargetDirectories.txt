@@ -1,0 +1,3 @@
+/home/bsoft/Projects/text_example/biuld/CMakeFiles/rebuild_cache.dir
+/home/bsoft/Projects/text_example/biuld/CMakeFiles/edit_cache.dir
+/home/bsoft/Projects/text_example/biuld/CMakeFiles/text.dir
